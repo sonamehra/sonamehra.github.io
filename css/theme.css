@@ -687,3 +687,23 @@ blockquote cite:before {
     color:white;
 }
 
+div#line1 span#a {
+display:inline;
+font-size: 22px;
+color: #cc580c;
+}
+div#line1:hover span#a {
+display:none;
+font-size: 22px;
+color: #cc580c;
+}
+div#line1 span#b {
+display:none;
+font-size: 22px;
+color: #cc580c;
+}
+div#line1:hover span#b {
+display:inline;
+font-size: 22px;
+color: #cc580c;
+}
